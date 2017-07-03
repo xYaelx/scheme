@@ -1,6 +1,6 @@
 ; Functional and Logical Programming 2017 - Ex.8
 
-; My Id is 203537634
+; My Id is 
 
 ; Part 1 - backtracking
 
